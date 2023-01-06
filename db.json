@@ -7,7 +7,10 @@
         "email": "Sincere@april.biz",
         "city": "Gwenborough",
         "phone": "1-770-736-8031 x56442",
-        "role": "Sr. Software Dev."
+        "role": "Sr. Software Dev.",
+        "status": "Invited",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Oct 15, 2022", "time": "10:49 AM" }
         },
         {
         "id": 2,
@@ -16,7 +19,10 @@
         "email": "Shanna@melissa.tv",
         "city": "Wisokyburgh",
         "phone": "010-692-6593 x09125",
-        "role": "Admin"
+        "role": "Admin",
+        "status": "Active",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Aug 15, 2022", "time": "12:38 AM" }
         },
         {
         "id": 3,
@@ -25,7 +31,10 @@
         "email": "Nathan@yesenia.net",
         "city": "McKenziehaven",
         "phone": "1-463-123-4447",
-        "role": "Sales Rep."
+        "role": "Sales Rep.",
+        "status": "Active",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Oct 11, 2022", "time": "9:33 PM" }
         },
         {
         "id": 4,
@@ -34,7 +43,10 @@
         "email": "Julianne.OConner@kory.org",
         "city": "South Elvis",
         "phone": "493-170-9623 x156",
-        "role": "Software Dev."
+        "role": "Software Dev.",
+        "status": "Invited",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Sep 5, 2022", "time": "4:55 PM" }
         },
         {
         "id": 5,
@@ -43,7 +55,10 @@
         "email": "Lucio_Hettinger@annie.ca",
         "city": "Roscoeview",
         "phone": "(254)954-1289",
-        "role": "Intern"
+        "role": "Intern",
+        "status": "Invited",
+        "image": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "July 29, 2022", "time": "2:54 AM" }
         },
         {
         "id": 6,
@@ -52,7 +67,10 @@
         "email": "Karley_Dach@jasper.info",
         "city": "South Christy",
         "phone": "1-477-935-8478 x6430",
-        "role": "Sales Rep."
+        "role": "Sales Rep.",
+        "status": "Invited",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Oct 7, 2022", "time": "9:52 PM" }
         },
         {
         "id": 7,
@@ -61,7 +79,10 @@
         "email": "Telly.Hoeger@billy.biz",
         "city": "Howemouth",
         "phone": "210.067.6132",
-        "role": "Product Manager"
+        "role": "Product Manager",
+        "status": "Active",
+        "image": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Dec 2, 2022", "time": "5:08 PM" }
         },
         {
         "id": 8,
@@ -70,7 +91,10 @@
         "email": "Sherwood@rosamond.me",
         "city": "Aliyaview",
         "phone": "586.493.6943 x140",
-        "role": "Manager"
+        "role": "Manager",
+        "status": "Active",
+        "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Jan 2, 2022", "time": "1:05 AM" }
         },
         {
         "id": 9,
@@ -79,7 +103,10 @@
         "email": "Chaim_McDermott@dana.io",
         "city": "Bartholomebury",
         "phone": "(775)976-6794 x41206",
-        "role": "Sales Rep."
+        "role": "Sales Rep.",
+        "status": "Invited",
+        "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Aug 25, 2022", "time": "7:40 AM" }
         },
         {
         "id": 10,
@@ -88,7 +115,10 @@
         "email": "Rey.Padberg@karina.biz",
         "city": "Lebsackbury",
         "phone": "024-648-3804",
-        "role": "Sales Rep."
+        "role": "Sales Rep.",
+        "status": "Active",
+        "image": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+        "login": { "date" : "Dec 31, 2022", "time": "4:10 PM" }
         }
     ]
   }
